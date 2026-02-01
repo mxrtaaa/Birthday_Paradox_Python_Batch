@@ -10,6 +10,7 @@ Interakcja z użytkownikiem odbywa się przez plik menu.bat. Po uruchomieniu skr
 1.	Uruchom program
 2.	Wyświetl opis 
 3.	Utwórz backup
-4.	Wyjście   
+4.	Wyjście
+
 Po wybraniu jednej z opcji 1-3, użytkownik może wrócić do głównego menu, naciskając dowolny klawisz. Wybranie opcji Wyjście zamyka okienko terminala.
 Użytkownik może zmienić ilość testów, które program wykonuje dla każdej testowanej liczby osób, poprzez zmianę treści pliku in.txt w folderze input.
